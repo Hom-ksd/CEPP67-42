@@ -1,0 +1,66 @@
+{
+    "1.pdf_convert.txt": [
+        1,
+        135
+    ],
+    "10.pdf_convert.txt": [
+        136,
+        530
+    ],
+    "11.pdf_convert.txt": [
+        531,
+        640
+    ],
+    "12.pdf_convert.txt": [
+        641,
+        799
+    ],
+    "14.pdf_convert.txt": [
+        800,
+        1055
+    ],
+    "15.pdf_convert.txt": [
+        1056,
+        1097
+    ],
+    "16.pdf_convert.txt": [
+        1098,
+        1469
+    ],
+    "17.pdf_convert.txt": [
+        1470,
+        1705
+    ],
+    "2.pdf_convert.txt": [
+        1706,
+        1799
+    ],
+    "3.pdf_convert.txt": [
+        1800,
+        1885
+    ],
+    "4.pdf_convert.txt": [
+        1886,
+        2005
+    ],
+    "5.pdf_convert.txt": [
+        2006,
+        2356
+    ],
+    "6.pdf_convert.txt": [
+        2357,
+        2963
+    ],
+    "8.pdf_convert.txt": [
+        2964,
+        3049
+    ],
+    "9.pdf_convert.txt": [
+        3050,
+        3107
+    ],
+    "law.pdf_convert.txt": [
+        3108,
+        4084
+    ]
+}
